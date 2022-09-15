@@ -5,5 +5,5 @@ This github repo link will be shared on the Blender Discord Channels.
 
 ## How to contribute:
 
-To submit a geonode group to add to this library, send the group to this [email](b3d.geonode.library@gmail.com)
+To submit a geonode group to add to this library, send the group to this email: b3d.geonode.library@gmail.com.
 For anyone that wants to help administer to this community library I'll give you access to the github and the email... once vetted.
